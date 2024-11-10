@@ -9,3 +9,7 @@
 db.json
 ./db.json
 /db.json
+
+results.json
+./results.json
+/results.json
